@@ -1,1 +1,1 @@
-console.log("UX Portfolio Website Loaded Successfully");
+console.log("Portfolio Loaded Successfully");
